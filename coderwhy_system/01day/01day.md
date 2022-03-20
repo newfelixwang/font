@@ -35,19 +35,21 @@ bom/dom   TypeScript
 六，node，webpack，git<br/>
 七，vue js3全家桶+项目实战<br/>
 八，react.js全家桶+项目实战<br/>
-九，原生小程序+云开发+项目实战
-十，typescript语法项目实战，vue3+ts--react+ts
-十一，跨平台uniapp+taro
-十二，node.js高级进阶项目实战
-十三，webpack，guip，vite，rollup等工具
-十四，typescript数据结构与算法
-十五，简历面试就业指导
+九，原生小程序+云开发+项目实战<br/>
+十，typescript语法项目实战，vue3+ts--react+ts<br/>
+十一，跨平台uniapp+taro<br/>
+十二，node.js高级进阶项目实战<br/>
+十三，webpack，guip，vite，rollup等工具<br/>
+十四，typescript数据结构与算法<br/>
+十五，简历面试就业指导<br/>
 
-先学vue3，再学小程序，再学react，再学node，再学vue3+ts，
-再学react+ts ，react-native，再学uniapp+taro 
 
-照着视频做出来，不一定会
-完全不看视频可以自己搭建出来，自己理解
+
+先学vue3，再学小程序，再学react，再学node，再学vue3+ts，<br/>
+再学react+ts ，react-native，再学uniapp+taro <br/>
+
+照着视频做出来，不一定会<br/>
+完全不看视频可以自己搭建出来，自己理解<br/>
 
 ======学习到1:06
 
