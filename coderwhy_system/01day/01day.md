@@ -27,14 +27,14 @@ bom/dom   TypeScript
 
 1.2.1  所有东西都是从零开始的
 
-一，深入HTML+css基础原理
-二，javascript和DOM+BOM
-三，深入javaScript高级语法
-四，深入学习前端可视化方案
-五，javascript实战框架应用
-六，node，webpack，git
-七，vue js3全家桶+项目实战
-八，react.js全家桶+项目实战
+一，深入HTML+css基础原理<br/>
+二，javascript和DOM+BOM<br/>
+三，深入javaScript高级语法<br/>
+四，深入学习前端可视化方案<br/>
+五，javascript实战框架应用<br/>
+六，node，webpack，git<br/>
+七，vue js3全家桶+项目实战<br/>
+八，react.js全家桶+项目实战<br/>
 九，原生小程序+云开发+项目实战
 十，typescript语法项目实战，vue3+ts--react+ts
 十一，跨平台uniapp+taro
