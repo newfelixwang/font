@@ -89,9 +89,9 @@ javaScript高级程序设计，<br/>
 
 为什么webpack已经那么强大，还会出现vite，它解决了webpack什么痛点<br/>
 
-比如为什浏览器存在兼容性问题
-w3.org
-mdn.org
+比如为什浏览器存在兼容性问题<br/>
+w3.org<br/>
+mdn.org<br/>
 
 
 
