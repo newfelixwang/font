@@ -20,6 +20,10 @@
 
 
 
+
+
+
+
 #### CSS历史
 
 * 有css1.css2----css3
@@ -35,6 +39,37 @@
 
 
 
+##### CSS属性官方文档
+
+* 官方文档地址: https://w3.org  -----最官方,最准确
+* 所有标准都在  https://w3.org/TR
+* 再就是MDN https://developer.mozilla.org/zh-CN/
+* 
+
+
+
+##### 由于浏览器版本,css版本等问题,查询某些css是否可用;
+
+- [ ] 可以到https://caniuse.com/查询属性的可用性;
+- [ ] 这个网站后续的browselist工具终我们再详细说明;
+
+
+
+
+
+###### 目前需要掌握的CSS属性
+
+- [ ] font-size:文字大小;
+- [ ] color;前景色(文字颜色)
+- [ ] backgoround-color;背景色
+- [ ] width;宽度
+- [ ] height;高度
+
+
+
 ###### 内联样式
 
   
+
+
+
