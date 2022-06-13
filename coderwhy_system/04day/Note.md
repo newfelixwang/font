@@ -10,8 +10,8 @@
 
 * text-decoration;  用于文字装饰,下划线
 * text-transform: 字母变形
-* text-indent 首行缩进
-* text-align(重要)首行缩进
+* text-indent 首行缩进   
+* text-align(重要)首行缩进    按照字体倍数,要看继承属性值
 * word/letter-sapcing  设置字母间距
 
 
@@ -27,4 +27,12 @@
 
 
 #### 3.CSS属性选择器
+
+
+
+
+
+###  今日学习时间点
+
+## 20220613--07节课 文本属性,字体属性
 
